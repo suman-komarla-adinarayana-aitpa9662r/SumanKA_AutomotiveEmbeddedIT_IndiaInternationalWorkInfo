@@ -41,4 +41,10 @@ https://github.com/Da-Vinci-Engineering/openAUTOSAR
 
 https://github.com/topics/autosar
 
+https://www.artop.org/
+
+https://www.autosar.org/
+
+
+
 /**************************************************************************************************/
