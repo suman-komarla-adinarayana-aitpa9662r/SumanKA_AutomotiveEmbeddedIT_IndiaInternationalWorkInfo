@@ -11,6 +11,9 @@ AUTOSAR
 
 Open Source Hardware - Automotive Embedded IT
 
+ASIL Qualified Microprocessor SoC Drivers -
+https://www.infineon.com/cms/en/design-support/software/free-and-open-source-software-foss/
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
