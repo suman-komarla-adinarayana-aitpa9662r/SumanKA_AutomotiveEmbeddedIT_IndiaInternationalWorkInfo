@@ -7,15 +7,26 @@ https://github.com/COVESA
 
 AUTOSAR
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-Open Source Hardware - Automotive Embedded IT
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+ASIL/ISO26262/IEC61508 Certified Microcontrollers
+https://en.wikipedia.org/wiki/Automotive_Safety_Integrity_Level
+https://en.wikipedia.org/wiki/ISO_26262
+https://en.wikipedia.org/wiki/IEC_61508
+
+Open Source Hardware - Automotive Embedded IT - 
 
 1) ASIL Qualified Microprocessor SoC Drivers -
 1.1) Infineon
    https://www.infineon.com/cms/en/design-support/software/free-and-open-source-software-foss/
 
    https://www.infineon.com/cms/en/design-support/software/
+1.2) Renesas
+   https://elinux.org/R-Car
+   https://www.renesas.com/en/products/automotive-products/automotive-system-chips-socs/rtp8j779m1askb0sk0sa003-r-car-h3e-2g-starter-kit#design_development
+   
+   
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
