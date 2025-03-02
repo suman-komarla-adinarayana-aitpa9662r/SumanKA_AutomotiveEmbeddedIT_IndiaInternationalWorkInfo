@@ -4,7 +4,13 @@ https://github.com/GENIVI
 
 https://github.com/COVESA
 
-Google Android Automotive
+https://github.com/opencv
+
+Google 
+
+https://summerofcode.withgoogle.com/
+
+Android Automotive
 
 https://source.android.com/docs/automotive
 
