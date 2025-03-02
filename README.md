@@ -14,6 +14,9 @@ Android Automotive
 
 https://source.android.com/docs/automotive
 
+Linux
+
+https://docs.automotivelinux.org/en/master/#01_Getting_Started/02_Building_AGL_Image/03_Downloading_AGL_Software/
 
 
 AUTOSAR
