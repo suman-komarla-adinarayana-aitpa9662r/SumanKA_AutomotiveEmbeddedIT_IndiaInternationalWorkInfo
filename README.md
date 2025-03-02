@@ -22,6 +22,7 @@ Open Source Hardware - Automotive Embedded IT -
    https://www.infineon.com/cms/en/design-support/software/free-and-open-source-software-foss/
 
    https://www.infineon.com/cms/en/design-support/software/
+
 1.2) Renesas
    https://elinux.org/R-Car
    https://www.renesas.com/en/products/automotive-products/automotive-system-chips-socs/rtp8j779m1askb0sk0sa003-r-car-h3e-2g-starter-kit#design_development
