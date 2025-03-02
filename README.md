@@ -25,6 +25,7 @@ Open Source Hardware - Automotive Embedded IT -
 
 1.2) Renesas
    https://elinux.org/R-Car
+   
    https://www.renesas.com/en/products/automotive-products/automotive-system-chips-socs/rtp8j779m1askb0sk0sa003-r-car-h3e-2g-starter-kit#design_development
    
    
