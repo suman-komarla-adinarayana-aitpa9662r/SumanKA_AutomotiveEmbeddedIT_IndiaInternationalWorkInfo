@@ -18,6 +18,10 @@ Linux
 
 https://docs.automotivelinux.org/en/master/#01_Getting_Started/02_Building_AGL_Image/03_Downloading_AGL_Software/
 
+Automotive Grade Linux
+https://wiki.automotivelinux.org/agl-distro/source-code
+https://lf-automotivelinux.atlassian.net/jira/projects?page=1&sortKey=name&sortOrder=ASC
+
 
 Electric Charging
 
