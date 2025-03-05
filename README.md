@@ -49,6 +49,10 @@ Open Source Hardware - Automotive Embedded IT -
    https://elinux.org/R-Car
    
    https://www.renesas.com/en/products/automotive-products/automotive-system-chips-socs/rtp8j779m1askb0sk0sa003-r-car-h3e-2g-starter-kit#design_development
+
+1.3) ARM
+
+https://github.com/ARM-software/CMSIS-FreeRTOS
    
    
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
