@@ -94,6 +94,17 @@ https://github.com/topics/autosar
 
 https://www.artop.org/
 
+/**************************************************************************************************/
+
+
+AUTOMOTIVE STANDARDS INFO
+1) ISO 14229-1:2020(en) Road vehicles — Unified diagnostic services (UDS) — Part 1: Application layer
+https://www.iso.org/obp/ui/en/#iso:std:iso:14229:-1:ed-3:v1:en
+2) ISO 14230-2:2016 Road vehicles — Diagnostic communication over K-Line (DoK-Line)
+https://www.iso.org/standard/69115.html
+
+/**************************************************************************************************/
+
 https://www.autosar.org/
 
 
