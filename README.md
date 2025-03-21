@@ -156,6 +156,10 @@ https://www.iso.org/obp/ui/en/#iso:std:iso:14229:-1:ed-3:v1:en
 
 https://www.iso.org/standard/69115.html
 
+3) ISO 26262-1:2018(en) Road vehicles — Functional safety — Part 1: Vocabulary
+
+https://www.iso.org/obp/ui/en/#iso:std:iso:26262:-1:ed-2:v1:en
+
 /**************************************************************************************************/
 
 https://www.autosar.org/
