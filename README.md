@@ -1,4 +1,4 @@
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+![image](https://github.com/user-attachments/assets/c88cdac3-9b20-48fd-a2de-494deabf3ced)₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 Non-AUTOSAR Program Library ECO-System
 
@@ -25,6 +25,12 @@ https://github.com/autowarefoundation/autoware
 https://github.com/ros2
 
 https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3
+
+
+https://github.com/KhronosGroup/glTF
+-Open Source Standards accepted by industry wide usage.
+-Khronos Group - Our portfolio of industry standards includes: 3D Commerce, ANARI, glTF, Kamaros, KTX, NNEF, OpenCL, OpenGL, OpenGL ES, OpenVG, OpenVX, OpenXR, SPIR, SYCL, Vulkan, WebGL and a number of Safety Critical derivatives, including Vulkan SC, SYCL SC, OpenGL SC and the OpenVX safety critical profile.
+
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
