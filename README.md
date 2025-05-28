@@ -20,6 +20,8 @@ https://github.com/openxc/openxc-android
 
 https://github.com/ApolloAuto/apollo
 
+https://github.com/SoftwareDefinedVehicle
+
 https://github.com/autowarefoundation/autoware
 
 https://github.com/ros2
