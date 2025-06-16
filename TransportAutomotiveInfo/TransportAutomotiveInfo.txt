@@ -1,13 +1,17 @@
 India International Technology
 
-Vehicle Development
+Vehicle Development [ASPICE ]
 A) Electronic Control Unit for Function(PLATFORM_OEM_EngineControlUnit_ECU_VehicleName_Variant_Info)
-1) Mechanical Requirements
-2) Hardware Requirements
-3) Software Requirements
+1) Mechanical Engineering Requirements [MEE Requirements]
+2) Hardware Engineering Requirements [HWE Requirements]
+3) Software Engineering Requirements [SWE Requirements]
 4) Product Requirement
-5) System Requirements
-
+5) System Requirements [SYS (System) Requirements]
+6) Supplier Tendering [SPL Tenders]
+7) Acquisition Process Group [ACQ Contract Agreement]
+8) Process Improvement Process Group [PIM]
+9) Reuse Process Group [REU Management]
+10) Management Process Group [MAN - Project, Risk]
 
 
 
@@ -20,4 +24,4 @@ IndiaInternationalOEMS
 IndiaInternationalVENDORS
 
 
-IndiaInternationalSuppliers
+IndiaInternationalSuppliers 
