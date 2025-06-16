@@ -1,1 +1,5 @@
 Open Technology Information
+AUTOSAR CLassic/Adaptive
+GENIVI
+SOAFEE
+VirtIO
