@@ -12,7 +12,8 @@ A) Electronic Control Unit for Function(PLATFORM_OEM_EngineControlUnit_ECU_Vehic
 8) Process Improvement Process Group [PIM]
 9) Reuse Process Group [REU Management]
 10) Management Process Group [MAN - Project, Risk]
-
+11) Machine Learning Engineering Group [MLE ]
+12) Cybersecurity Group [SEC Group]
 
 
 
