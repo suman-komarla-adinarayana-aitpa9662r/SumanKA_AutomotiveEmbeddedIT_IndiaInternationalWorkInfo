@@ -1,2 +1,19 @@
 ASPICE AREA Relevant Tools
 
+Communication
+Vector
+
+Microcontrollers
+
+
+
+
+Hypervisors
+https://blackberry.qnx.com/en/products/foundation-software/qnx-hypervisor
+https://www.ghs.com/products/rtos/integrity_virtualization.html
+https://www.sysgo.com/pikeos
+https://www.etas.com/ww/en/products-services/vehicle-software-platform-suite/rta-car/
+https://www.etas.com/ww/en/products-services/vehicle-software-platform-suite/rta-vrte/
+https://www.windriver.com/products/helix
+https://www.arm.com/partners/catalog/opensynergy
+https://github.com/OpenSynergy/lib-coqoshv-smevent
