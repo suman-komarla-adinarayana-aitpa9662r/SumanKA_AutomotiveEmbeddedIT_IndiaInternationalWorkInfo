@@ -3,6 +3,9 @@ https://en.wikipedia.org/wiki/List_of_automobile_manufacturers_of_India
 https://en.wikipedia.org/wiki/List_of_vehicle_plants_in_India
 https://en.wikipedia.org/wiki/Category:Automotive_companies_of_India
 https://en.wikipedia.org/wiki/Category:Car_manufacturers_of_India
+https://en.wikipedia.org/wiki/Category:Cars_of_India
+https://en.wikipedia.org/wiki/List_of_automotive_manufacturers_by_production
+https://en.wikipedia.org/wiki/List_of_current_automobile_manufacturers_by_country
 
 
 https://en.wikipedia.org/wiki/List_of_IT_consulting_firms
@@ -10,7 +13,9 @@ https://en.wikipedia.org/wiki/Business_Process_Framework_(eTOM)
 https://en.wikipedia.org/wiki/Information_Framework
 
 
-
+Industry Research Rerports
+Business Usecase Reports
+Company size and Revenue Reports
 
 
 
