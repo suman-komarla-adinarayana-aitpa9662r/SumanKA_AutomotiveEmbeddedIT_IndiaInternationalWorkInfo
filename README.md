@@ -28,6 +28,11 @@ https://github.com/ros2
 
 https://github.com/openvehicles/Open-Vehicle-Monitoring-System-3
 
+https://github.com/projectacrn/acrn-hypervisor
+
+https://github.com/xen-project/xen
+
+https://github.com/siemens/jailhouse
 
 https://github.com/KhronosGroup/glTF
 -Open Source Standards accepted by industry wide usage.
