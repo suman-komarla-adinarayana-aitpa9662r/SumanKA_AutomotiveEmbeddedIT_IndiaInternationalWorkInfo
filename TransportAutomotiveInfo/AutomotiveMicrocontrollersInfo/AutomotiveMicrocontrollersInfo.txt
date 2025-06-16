@@ -11,11 +11,19 @@ ASIL Grade Microcontroller
 ISO/IEC (Automotive Grade/ISO26262 Compliant) Microcontrollers
 
 
-Vendors
+Vendors [To Do - Soc Name,ECU/Domain,Example Product usecases]
 
 Infineon 
 Freescale
 JDP
 Renesas
+Texas Instruments
 NXP
+Qualcom
+SXM
+AMD
+Nvidia
+Telechips
+Mediatek
+
 
