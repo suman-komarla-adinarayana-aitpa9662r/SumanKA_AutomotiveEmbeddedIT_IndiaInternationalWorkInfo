@@ -6,6 +6,13 @@ https://en.wikipedia.org/wiki/Category:Car_manufacturers_of_India
 https://en.wikipedia.org/wiki/Category:Cars_of_India
 https://en.wikipedia.org/wiki/List_of_automotive_manufacturers_by_production
 https://en.wikipedia.org/wiki/List_of_current_automobile_manufacturers_by_country
+https://en.wikipedia.org/wiki/List_of_largest_companies_in_India
+https://en.wikipedia.org/wiki/Automotive_Industry_Standards
+https://en.wikipedia.org/wiki/Automotive_industry
+https://en.wikipedia.org/wiki/List_of_the_largest_automotive_suppliers
+https://en.wikipedia.org/wiki/List_of_countries_by_motor_vehicle_production
+https://en.wikipedia.org/wiki/Automobile_Products_of_India
+https://en.wikipedia.org/wiki/List_of_automobile_manufacturers
 
 
 https://en.wikipedia.org/wiki/List_of_IT_consulting_firms
@@ -14,6 +21,10 @@ https://en.wikipedia.org/wiki/Information_Framework
 
 
 Industry Research Rerports
+Sector Research Reports
+Automotive Associations and Organisation Reports
+Transport Association and Organisation Reports
+Technology Articles,Journals,Industry trend Reports
 Business Usecase Reports
 Company size and Revenue Reports
 
