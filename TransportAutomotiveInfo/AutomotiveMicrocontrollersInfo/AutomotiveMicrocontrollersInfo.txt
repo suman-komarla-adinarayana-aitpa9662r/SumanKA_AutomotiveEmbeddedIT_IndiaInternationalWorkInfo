@@ -1,1 +1,21 @@
+ARM Architecture
+
+RISC Architecture
+
+CISC Architecture
+
+Legacy - Single Core Microcontroller
+Multicore Microcontroller
+
+ASIL Grade Microcontroller
+ISO/IEC (Automotive Grade/ISO26262 Compliant) Microcontrollers
+
+
+Vendors
+
+Infineon 
+Freescale
+JDP
+Renesas
+NXP
 
