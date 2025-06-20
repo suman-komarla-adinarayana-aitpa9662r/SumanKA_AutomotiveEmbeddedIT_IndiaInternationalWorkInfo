@@ -1,0 +1,1 @@
+Open AUTOSAR Standard Documentation Releases Info [https://www.autosar.org/search?tx_solr%5Bfilter%5D%5B0%5D=category%3AR23-11&tx_solr%5Bfilter%5D%5B1%5D=platform%3ACP&tx_solr%5Bq%5D=] 
