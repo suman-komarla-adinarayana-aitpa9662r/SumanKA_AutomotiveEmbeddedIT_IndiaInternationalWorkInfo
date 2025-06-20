@@ -1,1 +1,6 @@
+https://cli.github.com/
+https://github.com/cli
+https://cli.github.com/manual/
+https://docs.github.com/en/desktop
 
+1) Clone a repository - 
