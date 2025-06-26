@@ -166,12 +166,22 @@ https://github.com/ARM-software/CMSIS-FreeRTOS
 
 Open Source Software - Automotive Embedded IT
 
+
+https://www.erika-enterprise.com/index.php/erika3/openerika.html
+
+https://erika.tuxfamily.org/wiki/index.php?title=RT-Druid_configuration
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 Open Source Tools - Automotive Embedded IT
+https://www.eclipse.org/community/eclipse_newsletter/2015/march/article3.php
+
+http://www.artop.org/
+
+https://www.autosar.org/working-groups/cross-standard/artop
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
@@ -197,6 +207,10 @@ https://github.com/Da-Vinci-Engineering/openAUTOSAR
 https://github.com/topics/autosar
 
 https://www.artop.org/
+
+https://www.comasso.org/
+
+https://www.comasso.org/comasso_downloads
 
 /**************************************************************************************************/
 
