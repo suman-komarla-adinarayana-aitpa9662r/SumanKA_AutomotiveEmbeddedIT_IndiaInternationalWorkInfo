@@ -57,17 +57,15 @@ https://autocomponentsindia.com/
 
 
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Enterprise Solution Providers - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise Solution Providers - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Enterprise Solution Providers - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
-
-
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹Enterprise Solution Providers - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Enterprise Solution Technology Sponsors - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Enterprise Solution Technology Sponsors - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Enterprise Solution Technology Sponsors - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹ Enterprise Solution Technology Sponsors - AUTOMOTIVE EMBEDDED IT ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
 
