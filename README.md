@@ -1,4 +1,4 @@
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R - INDIA MARKET SECTOR - AUTO {THEME - TRANSPORT} ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
@@ -317,4 +317,4 @@ https://www.autosar.org/
 
 /**************************************************************************************************/
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R - INDIA MARKET SECTOR - AUTO {THEME - TRANSPORT} ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
