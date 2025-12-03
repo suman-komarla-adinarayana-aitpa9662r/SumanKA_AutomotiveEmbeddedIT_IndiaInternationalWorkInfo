@@ -9,7 +9,7 @@ https://morth.nic.in/
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-https://morth.nic.in/
+
 
 https://www.incredibleindia.gov.in/en
 
