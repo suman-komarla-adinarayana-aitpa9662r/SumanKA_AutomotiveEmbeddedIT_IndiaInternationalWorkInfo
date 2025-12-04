@@ -27,6 +27,8 @@ https://en.wikipedia.org/wiki/Wonders_of_the_World
 
 https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_India
 
+https://whc.unesco.org/en/statesparties/in
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Private /  public–private partnership ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
