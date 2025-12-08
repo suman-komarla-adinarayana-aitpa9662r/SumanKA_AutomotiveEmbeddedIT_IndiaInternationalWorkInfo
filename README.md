@@ -1,1 +1,1 @@
-.
+https://github.com/suman-komarla-adinarayana-aitpa9662r/SumanKA_AutomotiveEmbeddedIT_IndiaInternationalWorkInfo/blob/26f559fd474dd3c5e97b9b0182eb8f6614aaae4f/SUMANKOMARLAADINARAYANA_AITPA9662R_INDIAInternationalMARKETSECTORAUTO.md
