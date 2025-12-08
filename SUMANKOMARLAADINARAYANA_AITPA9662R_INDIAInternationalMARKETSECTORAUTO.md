@@ -107,6 +107,11 @@ https://www.xbhp.com/
 
 https://autocomponentsindia.com/
 
+https://commercialvehicle.in/
+
+
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Research Journals/Articles/Newsletters ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Research Journals/Articles/Newsletters ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
