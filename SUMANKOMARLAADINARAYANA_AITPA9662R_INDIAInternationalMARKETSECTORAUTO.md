@@ -63,6 +63,9 @@ https://www.linkedin.com/jobs
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Media(Newspaper,Magazines,Blogs,Articles) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - OEM Manuals/Guide/Customer Service ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - OEM Manuals/Guide/Customer Service ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
 https://www.autocarindia.com/magazine/
 
 https://www.overdrive.in/
@@ -86,6 +89,15 @@ https://autocomponentsindia.com/
 https://www.topgearmag.in/
 
 https://motoringworld.in/
+
+https://bikeindia.in/
+
+https://www.xbhp.com/
+
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Research Journals/Articles/Newsletters ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Research Journals/Articles/Newsletters ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Media(Newspaper,Magazines,Blogs,Articles) ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
