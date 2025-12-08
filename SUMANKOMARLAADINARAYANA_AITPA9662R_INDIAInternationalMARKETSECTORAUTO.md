@@ -1,4 +1,4 @@
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R - INDIA MARKET SECTOR - AUTO {THEME - TRANSPORT} ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R - INDIA International MARKET SECTOR - AUTO {THEME - TRANSPORT} ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
