@@ -9,6 +9,11 @@ https://www.netc.org.in/
 
 https://nhai.gov.in/
 
+
+
+https://dult.karnataka.gov.in/en
+
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
