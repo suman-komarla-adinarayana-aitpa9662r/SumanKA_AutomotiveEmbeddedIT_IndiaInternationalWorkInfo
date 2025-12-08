@@ -5,6 +5,10 @@
 
 https://morth.nic.in/
 
+https://www.netc.org.in/
+
+https://nhai.gov.in/
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
