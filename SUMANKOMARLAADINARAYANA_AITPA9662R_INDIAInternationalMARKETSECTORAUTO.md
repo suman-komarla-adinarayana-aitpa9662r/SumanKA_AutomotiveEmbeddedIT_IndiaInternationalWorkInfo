@@ -333,6 +333,11 @@ https://www.comasso.org/comasso_downloads
 
 
 AUTOMOTIVE STANDARDS INFO
+
+ISO Standards Information:-
+
+https://github.com/suman-komarla-adinarayana-aitpa9662r/SumanKA_AutomotiveEmbeddedIT_IndiaInternationalWorkInfo/blob/26f559fd474dd3c5e97b9b0182eb8f6614aaae4f/01_SKA_ISOStandardsInfo/SumanKA_ISOStandardsInfo.csv
+
 1) ISO 14229-1:2020(en) Road vehicles — Unified diagnostic services (UDS) — Part 1: Application layer
 
 https://www.iso.org/obp/ui/en/#iso:std:iso:14229:-1:ed-3:v1:en
