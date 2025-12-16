@@ -18,13 +18,12 @@ https://dult.karnataka.gov.in/en
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-https://tourism.gov.in/
+National/International/
 
-https://www.incredibleindia.gov.in/en
+https://en.wikipedia.org/wiki/Wonders_of_the_World
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_India
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Private /  public–private partnership ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 https://tourism.gov.in/
 
@@ -32,11 +31,34 @@ https://www.incredibleindia.gov.in/en
 
 https://indianvisaonline.gov.in/
 
-https://en.wikipedia.org/wiki/Wonders_of_the_World
-
-https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_India
-
 https://whc.unesco.org/en/statesparties/in
+
+https://www.irctc.co.in/nget/train-search
+
+https://www.civilaviation.gov.in/banner/digiyatra
+
+
+Statewise
+
+https://kstdc.co/
+
+https://www.bmrc.co.in/
+
+https://tummoc.com/
+
+https://ksrtc.in/
+
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Private /  public–private partnership ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+Pilgrimages/Nature/
+
+https://www.pilgrimagetour.in/
+
+Statewise
+
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Private /  public–private partnership ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
