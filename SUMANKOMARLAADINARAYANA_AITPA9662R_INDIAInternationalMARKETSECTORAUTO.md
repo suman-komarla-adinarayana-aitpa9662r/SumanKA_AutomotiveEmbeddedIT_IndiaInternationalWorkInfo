@@ -22,7 +22,7 @@ https://dult.karnataka.gov.in/en
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International IT Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 National/International/
 
@@ -67,9 +67,9 @@ Pilgrimages/Nature/
 https://www.pilgrimagetour.in/
 
 
-https://niftyindices.com/indices/equity/sectoral-indices/nifty-auto
 
-https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-it
+
+
 
 Statewise
 
@@ -96,6 +96,18 @@ https://www.linkedin.com/jobs
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Market and Business Analysis Reports ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+
+https://niftyindices.com/indices/equity/sectoral-indices/nifty-auto
+
+https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-it
+
+https://niftyindices.com/indices/equity/thematic-indices/nifty-india-infrastructure-logistics
+
+https://niftyindices.com/indices/equity/thematic-indices/nifty-india-railways-psu
+
+https://niftyindices.com/indices/equity/thematic-indices/nifty-india-tourism
+
+https://www.niftyindices.com/indices/equity/thematic-indices/nifty-infrastructure
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Market and Business Analysis Reports ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
