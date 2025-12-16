@@ -57,6 +57,7 @@ https://tummoc.com/
 
 https://ksrtc.in/
 
+https://karnatakatourism.org/en/
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
