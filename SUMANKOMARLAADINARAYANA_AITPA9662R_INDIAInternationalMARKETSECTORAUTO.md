@@ -9,9 +9,15 @@ https://www.netc.org.in/
 
 https://nhai.gov.in/
 
+https://www.araiindia.com/
 
+https://www.niti.gov.in/divisions/division/infrastructure
+
+https://www.niti.gov.in/divisions/division/e-mobility
 
 https://dult.karnataka.gov.in/en
+
+
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
@@ -24,6 +30,7 @@ https://en.wikipedia.org/wiki/Wonders_of_the_World
 
 https://en.wikipedia.org/wiki/List_of_World_Heritage_Sites_in_India
 
+https://www.niti.gov.in/divisions/division/tourism-and-culture
 
 https://tourism.gov.in/
 
@@ -36,6 +43,8 @@ https://whc.unesco.org/en/statesparties/in
 https://www.irctc.co.in/nget/train-search
 
 https://www.civilaviation.gov.in/banner/digiyatra
+
+https://www.aai.aero/
 
 
 Statewise
@@ -56,6 +65,11 @@ https://ksrtc.in/
 Pilgrimages/Nature/
 
 https://www.pilgrimagetour.in/
+
+
+https://niftyindices.com/indices/equity/sectoral-indices/nifty-auto
+
+https://www.niftyindices.com/indices/equity/sectoral-indices/nifty-it
 
 Statewise
 
