@@ -7,7 +7,7 @@ Sl No, ISO/SAE/IEC/IEEE/BSx/ASAM/AIS/CMVR/NCAP/etc Standard,ISO/SAE/IEC/IEEE/BSx
 6,ISO14230,https://en.wikipedia.org/wiki/Keyword_Protocol_2000,,,,,
 7,ISO26262,https://en.wikipedia.org/wiki/ISO_26262,https://www.iso.org/publication/PUB200262.html,,,ISO 26262 road vehicles functional safety,
 8,ISO14230,https://en.wikipedia.org/wiki/Keyword_Protocol_2000,https://www.iso.org/standard/69115.html,,,ISO 14230-2:2016 Road vehicles — Diagnostic communication over K-Line (DoK-Line),
-9,ISO22901,https://de.wikipedia.org/wiki/ODX,,,,,
+9,ISO22901,https://de.wikipedia.org/wiki/ODX,https://www.iso.org/standard/41207.html,,,ISO 22901-1:2008 Road vehicles — Open diagnostic data exchange (ODX),
 10,ISO14229,https://en.wikipedia.org/wiki/Unified_Diagnostic_Services,,,,,
 11,SAE J1939,https://en.wikipedia.org/wiki/SAE_J1939,,,,,
 12,ISO/IEC 9899:2024,https://en.wikipedia.org/wiki/C23_(C_standard_revision),,,,ISO/IEC 9899:2024 Information technology — Programming languages — C,
