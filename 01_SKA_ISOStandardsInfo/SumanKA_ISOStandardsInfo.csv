@@ -6,7 +6,7 @@ Sl No, ISO/SAE/IEC/IEEE/BSx/ASAM/AIS/CMVR/NCAP/etc Standard,ISO/SAE/IEC/IEEE/BSx
 5,ISO 15765,https://uds.readthedocs.io/en/stable/pages/knowledge_base/can.html#,,,,,
 6,ISO14230,https://en.wikipedia.org/wiki/Keyword_Protocol_2000,,,,,
 7,ISO26262,https://en.wikipedia.org/wiki/ISO_26262,https://www.iso.org/publication/PUB200262.html,,,ISO 26262 road vehicles functional safety,
-8,ISO14230,https://en.wikipedia.org/wiki/Keyword_Protocol_2000,,,,,
+8,ISO14230,https://en.wikipedia.org/wiki/Keyword_Protocol_2000,https://www.iso.org/standard/69115.html,,,ISO 14230-2:2016 Road vehicles — Diagnostic communication over K-Line (DoK-Line),
 9,ISO22901,https://de.wikipedia.org/wiki/ODX,,,,,
 10,ISO14229,https://en.wikipedia.org/wiki/Unified_Diagnostic_Services,,,,,
 11,SAE J1939,https://en.wikipedia.org/wiki/SAE_J1939,,,,,
