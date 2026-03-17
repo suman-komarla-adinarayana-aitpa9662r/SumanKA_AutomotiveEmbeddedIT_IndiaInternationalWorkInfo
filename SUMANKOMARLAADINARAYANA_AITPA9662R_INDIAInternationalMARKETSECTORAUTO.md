@@ -78,6 +78,8 @@ https://ksrtc.in/
 
 https://karnatakatourism.org/en/
 
+https://transport.karnataka.gov.in/     (Regional Transport Office)
+
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Travel and Tourism  - Private /  public–private partnership ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
