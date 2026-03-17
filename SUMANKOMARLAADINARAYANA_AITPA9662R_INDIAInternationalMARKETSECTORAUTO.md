@@ -23,7 +23,17 @@ https://www.niti.gov.in/divisions/division/infrastructure
 https://www.niti.gov.in/divisions/division/e-mobility
 
 https://dult.karnataka.gov.in/en
+
 (Automotive)
+
+
+Non-Automotive
+
+https://www.isro.gov.in/
+
+https://indiannavy.gov.in/
+
+https://indianairforce.nic.in/
 
 https://shipmin.gov.in/
 
