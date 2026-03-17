@@ -19,6 +19,8 @@ https://www.netc.org.in/
 
 https://nhai.gov.in/
 
+https://puc.parivahan.gov.in/puc/views/PucCertificate.xhtml
+
 https://www.araiindia.com/
 
 https://www.niti.gov.in/divisions/division/infrastructure
