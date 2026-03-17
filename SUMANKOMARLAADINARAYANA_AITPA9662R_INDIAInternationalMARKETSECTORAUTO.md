@@ -1,9 +1,16 @@
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R - INDIA International MARKET SECTOR - AUTO {THEME - TRANSPORT} ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
+(Automotive)
 https://morth.nic.in/
+
+https://parivahan.gov.in/
+
+https://services.india.gov.in/service/ministry_services?ln=en&cmd_id=2048&sort=hit_count@desc
+
+https://services.india.gov.in/service/listing?cat_id=9&ln=en
 
 https://www.netc.org.in/
 
@@ -16,11 +23,13 @@ https://www.niti.gov.in/divisions/division/infrastructure
 https://www.niti.gov.in/divisions/division/e-mobility
 
 https://dult.karnataka.gov.in/en
+(Automotive)
+
+https://shipmin.gov.in/
 
 
 
-
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport(Automotive) - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International IT Travel and Tourism  - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
