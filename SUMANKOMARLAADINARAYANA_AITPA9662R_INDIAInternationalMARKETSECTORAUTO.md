@@ -460,6 +460,11 @@ https://www.iso.org/standard/69115.html
 
 https://www.iso.org/obp/ui/en/#iso:std:iso:26262:-1:ed-2:v1:en
 
+4) Open Standard -
+   https://en.wikipedia.org/wiki/Open_standard
+
+5) 
+
 /**************************************************************************************************/
 
 https://www.autosar.org/
