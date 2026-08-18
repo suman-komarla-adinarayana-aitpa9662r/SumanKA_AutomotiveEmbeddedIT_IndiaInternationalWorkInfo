@@ -1,4 +1,4 @@
-₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R - INDIA International MARKET SECTOR - AUTO {THEME - TRANSPORT} ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
+₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹SUMAN KOMARLA ADINARAYANA - AITPA9662R - 100368427028 - 110054700147 - INDIA International MARKET SECTOR - AUTO {THEME - TRANSPORT} ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
 
 
 ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹India International Transport - Governance ₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹₹
